@@ -1,36 +1,31 @@
-# Career Development Curriculum
+# Mentorship Curriculum Site
+This is a small static Jekyll site that contains the front end program's lessons and projects.
 
-Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
+## License
 
-Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules one and two through cultivating self-awareness and empathy. In modules three and four, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-The touchstones of this curriculum include developing these mindsets: 
+## Getting Started
 
-* **Agency:** Taking initiative and ownership over your learning and work
-* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
-* **Engagement:** Active participation in community
-* **Grit:** A combination of perseverance and passion
-* **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
+### Prerequisites
 
-### Curriculum Overview
+In order to get this repo up and running you will need to have Ruby 2.4.1 installed and active. You will also need the `bundler` and `jekyll` gems installed.
 
-* Mod 1: Create your vision for your career and establish habits to help you reach goals for you to get there
-* Mod 2: Refine your vision and implement branding and job search strategies to share your story and vision with others through networking
-* Mod 3: Execute your strategy, phase I: resume, cover letters, continued strategic networking, interview skills
-* Mod 4: Execute your strategy, phase II: continue utilizing and refining your strategy as you talk to companies and go on interviews
+```shell
+gem install bundler
+gem install jekyll
+```
 
-### Structure of Career Development
-Every Monday, students will have a workshop on a specific professional development topic to provide them with support in each of these areas. The workshops will provide space for whole group and small group discussion, readings, and reflection time along with resources and strategies for implementing new ideas. 
+### Installing
 
-Throughout the rest of the week, students will be able to put this learning into practice through reflections in their career journals. What is a career journal?  It's a document where the student can create a road map for their career goals through self-reflection, prompts, and questions.
+Once you have Ruby, Bundler, and Jekyll installed, you can install dependencies by running:
 
-The Career Dev team will review each students' journal reflections weekly and again at the end of each module to assess their progress and provide tailored support when needed.  
+```shell
+bundle
+```
 
-### Module Overview
-See below for the focus for each module more in-depth along with links to the sessions:
+And after all dependencies are installed, you can run the following to start your local server on port 4000:
 
-* [Module 1](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/index.md)
-* [Module 2](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/index.md)
-* [Module 3](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/index.md)
-* [Module 4](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_four/index.md)
-* [Module 5 (post-grad job search support)](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-5/index.md)
+```shell
+bundle exec jekyll serve
+```
