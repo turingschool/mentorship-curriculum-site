@@ -1,5 +1,5 @@
 # Mentorship Curriculum Site
-This is a small static Jekyll site that contains the front end program's lessons and projects.
+This is a small static Jekyll site that contains resources and information about the Mentorship Program at Turing.
 
 ## License
 
