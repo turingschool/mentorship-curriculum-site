@@ -1,6 +1,6 @@
-title: "Career Development Curriculum - Turing School of Software and Design"
-description: "Open source career development curriculum for the Turing School of Software and Design"
-url: "https://careerdev.turing.io/"
+title: "Mentorship Resources - Turing School of Software and Design"
+description: "Open source mentorship resources for the Turing School of Software and Design"
+url: "https://mentorship.turing.io/"
 
 baseurl: '/'
 permalink: /:title
