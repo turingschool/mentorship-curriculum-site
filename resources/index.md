@@ -1,31 +1,10 @@
 ---
 layout: page
-title: Career Development Resources
+title: Mentorship Resources
 ---
 
-# Career Development Resources
-Below are a list of additional resources to help you with your career development and job search.
-
-### Storytelling & Branding Resources
-* [Resources for Building Your Brand as a Software Developer](/resources/branding_resources)
-
-### Finding Opportunities Resources
-* [Listing of various tools for finding opportunities](/resources/finding_opportunities)
-
-### Application Resources
-* [Resume Resources](/resources/resume_resources)
-* [Cover Letter Resources](/resources/cover_letter_resources)
-* [Outreach & Networking Resources](/resources/outreach_networking_resources)
-
-### Interview Prep Resources
-* [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
+## Overview
+Below are a list of additional resources to help you in your work as a mentor.
 
 ### Recommended Reading
-* [Atomic Habits](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
-* [Cracking the Coding Interview](https://bookshop.org/books/cracking-the-coding-interview-189-programming-questions-and-solutions/9780984782857)
-* [Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322)
-* [Mindset: The New Psychology of Success](https://bookshop.org/books/mindset-the-new-psychology-of-success/9780345472328)
-* [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
-* [Refactoring](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
-* [The Checklist Manifesto](https://bookshop.org/books/the-checklist-manifesto-how-to-get-things-right/9780312430009)
-* [What Color is Your Parachute?](https://bookshop.org/books/what-color-is-your-parachute-2020-a-practical-manual-for-job-hunters-and-career-changers-revised/9781984856562)
+<!-- * []() -->
