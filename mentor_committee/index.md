@@ -17,7 +17,7 @@ Committee mentors will be a key part of this process, working with us to:
 
 ## 2008-2011 Inning Mentor Committee Members
 
-We are thrilled to be working with this group as we tackle this rethinking of the mentorship program underway!
+We are thrilled to be working with this group as our founding Mentor Committee members:
 
 Annie Wolff
 Eddie Zaneski
