@@ -11,8 +11,8 @@ These DTR templates aim to help mentors and mentees have intentional, clear conv
 The questions outlined in the linked template documents below should be discussed together with your mentee, and mentors should expect that they will be leading the conversation.
 
 <section>
-  <a href="/resources/module-kick-off-dtr.html" class="btn btn-dark">Module Kick-off DTR</a>
-  <a href="/resources/module-exit-dtr.html" class="btn btn-dark">Module Exit DTR</a>
+  <a href="/dtr/module-kick-off-dtr.html" class="btn btn-dark">Module Kick-off DTR</a>
+  <a href="/dtr/module-exit-dtr.html" class="btn btn-dark">Module Exit DTR</a>
 </section>
 
 ### Leading the Charge on Scheduling
