@@ -20,6 +20,11 @@ In Module 3, we will look beyond the basics of building Rails web applications w
 * [Lower priority focuses](https://backend.turing.io/module3/misc/learning_goals)
 
 ## Projects
+
+<section>
+  <a href="https://backend.turing.io/module3/projects/index" class="btn btn-dark">Back End M3 Projects</a>
+</section>
+
 [Brownfield of Dreams](https://backend.turing.io/module3/projects/brownfield_of_dreams/index)
 Week 1 - Paired
 

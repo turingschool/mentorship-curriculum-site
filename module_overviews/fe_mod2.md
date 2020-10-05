@@ -17,6 +17,10 @@ FE2 focuses on foundational JavaScript, and the use of Array and Object prototyp
 
 ## Projects
 
+<section>
+  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
+</section>
+
 * Solo I - Flash Cards
 * Pair - FitLit or What’s Cookin
 * Group - Refactor Tractor

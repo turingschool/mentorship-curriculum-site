@@ -5,7 +5,7 @@ title: Front End Module 3
 
 ## Instructors
 
-Khalid, Leta
+Khalid Williams, Leta Keane
 
 ## Module Content Summary
 
@@ -22,6 +22,10 @@ They continue to build up their skills in independent learning: asking questions
 * independent learning
 
 ## Projects
+
+<section>
+  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
+</section>
 
 [Rancid Tomatillos](https://frontend.turing.io/projects/module-3/rancid-tomatillos-v2.html)
 [Stretch](https://frontend.turing.io/projects/module-3/stretch.html)

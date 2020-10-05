@@ -5,7 +5,7 @@ title: Back End Module 1
 
 ## Instructors
 
-Tim, Kat, Mike
+Michael Dao (Anchor), Kathleen Scriver. Meghan Stang
 
 ## Module Content Summary
 
@@ -16,6 +16,10 @@ In Module 1, students will learn to use Ruby and object-oriented programming to 
 Pairing, OOP, TDD, SRP, DRY code, basic data type creation/manipulation
 
 ## Projects
+
+<section>
+  <a href="https://backend.turing.io/module1/projects/" class="btn btn-dark">Back End M1 Projects</a>
+</section>
 
 Week 1: War or Peace OR Flashcards
 Week 2-3: Battleship

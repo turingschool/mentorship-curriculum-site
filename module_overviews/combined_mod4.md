@@ -5,7 +5,7 @@ title: Combined Module 4
 
 ## Instructors
 
-Travis Rollins, Eric Weissman
+Robbie Jaeger, Eric Weissman, Megan McMahon, Tyler Long
 
 ## Module Content Summary
 
@@ -16,6 +16,10 @@ Mod 4 focuses on professional and technical skills designed to get your first jo
 Learning new technologies (React, Redux, Express, & GraphQL), understanding and navigating a large codebase, and becoming more familiar with computer science topics.
 
 ## Projects
+
+<section>
+  <a href="https://mod4.turing.io/projects/" class="btn btn-dark">Module 4 Projects</a>
+</section>
 
 * Crate (Brownfield codebase)
 * Cross Poll

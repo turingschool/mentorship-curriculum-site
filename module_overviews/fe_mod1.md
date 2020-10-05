@@ -5,7 +5,7 @@ title: Front End Module 1
 
 ## Instructors
 
-Hannah, Scott, Will
+Hannah Hudson, Scott Ertmer, Kayla Wood
 
 ## Module Content Summary
 
@@ -16,6 +16,10 @@ JS, HTML, CSS, DOM basics
 JS foundations, cultivating good problem solving skills (pseudo-coding, using docs, logical thinking), HTML/CSS, DOM vs data model
 
 ## Projects
+
+<section>
+  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
+</section>
 
 * First solo: JS Fun at a Restaurant / JS Fun at the Library
 * Paired: Hang In There / RomCom

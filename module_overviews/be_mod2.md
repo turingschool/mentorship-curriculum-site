@@ -4,7 +4,7 @@ title: Back End Module 2
 ---
 
 ## Instructors
-Meg Stang, Brian Zanti, Cory Westerfield
+Brian Zanti, Alex Robinson, Tim Tyrrell
 
 ## Module Content Summary
 
@@ -15,6 +15,10 @@ Creating database-backed applications in Rails.
 Creating database-backed applications in Rails, utilizing MVC pattern, testing using RSpec, capybara, and shoulda-matchers. Please feel free to reference the “Mastery” section of our [learning goals page](https://backend.turing.io/module2/success/learning_goals) on our curriculum site to see what we’d expect students to come out of mod 2 with at a mastery level of understanding.
 
 ## Projects
+
+<section>
+  <a href="https://backend.turing.io/module2/projects/index" class="btn btn-dark">Back End M2 Projects</a>
+</section>
 
 * [Adopt Don’t Shop](https://github.com/turingschool-examples/adopt_dont_shop_2005)
 * [Adopt Don’t Shop Paired](https://github.com/turingschool-examples/adopt_dont_shop_paired)
