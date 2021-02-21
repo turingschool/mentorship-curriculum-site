@@ -7,13 +7,17 @@
   border-radius: 50px;
   display: inline-block;
   text-transform: uppercase;
-  padding: 16px 30px 16px;
+  padding: 18px 30px 12px;
   margin: 5px;
 }
 
 .btn-dark {
   background-color: $dark-gray;
   color: $light-gray;
+
+  &:hover {
+    color: $background-primary;
+  }
 }
 
 .btn-light {
