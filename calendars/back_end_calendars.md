@@ -4,7 +4,7 @@ title: Back End Calendars
 ---
 
 <section class="module-content" data-module="1">
-  <h2>Mod 1<h2>
+  <h2>Mod 1</h2>
 
   <div class="responsive-iframe-container">
     <div class='tablet'>
