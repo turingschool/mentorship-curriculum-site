@@ -15,17 +15,14 @@ Committee mentors will be a key part of this process, working with us to:
 * Be critical to the work of revisioning a robust, growth-oriented mentorship program that benefits both our students and our mentors personal and professional grown
 * Help define what mentorship at Turing is today and what it can be in the future
 
-## 2008-2011 Inning Mentor Committee Members
+## 2012 - ∞ Inning Mentor Committee Members
 
 We are thrilled to be working with this group as our founding Mentor Committee members:
 
-* Annie Wolff, on Slack: _@wolffann_
 * Eddie Zaneski, on Slack: _@eddiezane_
-* Heather Faerber, on Slack: _@heatherF_
+* Hugh Hartigan, on Slack: _@Hugh Hartigan_
 * Jacob Bogart, on Slack: _@jacobogart_
-* Melvin Cedeno, on Slack: _@Melvin cedeno_
 * Mike Duke, on Slack: _@Duke_
-* Vee Andrade, on Slack: _@vee_
 
 Initial committee members plan to serve through December 2020 to allow for more consistent feedback and communication while we kick off this mentorship revitalization program. Future committee member groups will serve for approximately 3 months (2 modules).
 
