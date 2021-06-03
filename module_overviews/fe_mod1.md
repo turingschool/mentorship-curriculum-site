@@ -17,15 +17,35 @@ JS foundations, cultivating good problem solving skills (pseudo-coding, using do
 
 ## Projects
 
-<section>
-  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
-</section>
-
-* First solo: JS Fun at a Restaurant / JS Fun at the Library
-* Paired: Hang In There / RomCom
-* Second solo: Misc Solo Challenge (DOM Manipulation, HTML and CSS)
-* Group: IdeaBox / Intention Timer (group)
-* Final Solo: Tic Tac Toe / SlapJack
+<ul class="projects">
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/dog-party-2.0.html">Dog Party 2.0</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/balancing-act-solo/index.html">Balancing Act</a></li> -->
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/library.html">JS Fun at the Library (solo)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/restaurant.html">JS Fun at a Restaurant (solo)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/hang-in-there.html">Hang In There (paired)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/romcom-pair.html">RomCom (paired)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/dinner.html">What's For Dinner? (solo)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/self-care-center.html">Self Care Center (solo)</a></li>
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/number-guesser-pair.html">Number Guesser (paired)</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/intention-timer-pair.html">Intention Timer (paired)</a></li> -->
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/intention-timer-group.html">Intention Timer (group)</a></li>
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/build-a-bear-group.html">Build A Bear (group)</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/check-yo-self-group.html">Check Yo'Self (group)</a></li> -->
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/ideabox-group.html">IdeaBox (group)</a></li>
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/which-beyonce-group.html">Which Beyoncé (group)</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/check-yo-self-solo.html">Check Yo'Self (solo)</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/which-beyonce-solo.html">Which Beyoncé? (solo)</a></li> -->
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/tic-tac-toe-solo.html">Tic Tac Toe (solo)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-1/rock-paper-scissors-solo.html">Rock Paper Scissors (solo)</a></li>
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/slapjack.html">SlapJack (solo)</a></li> -->
+    <!-- <li class="project"><a href="https://github.com/turingschool-examples/html-warmup-challenges">HTML Warmup Challenges</a></li> -->
+    <!-- <li class="project"><a href="https://github.com/turingschool-examples/css-layout-challenges">CSS Layout Challenges for Warmups</a></li> -->
+    <li class="project"><a href="https://github.com/turingschool-examples/javascript-foundations">Javascript Foundations Exercises</a></li>
+    <!-- <li class="project"><a href="https://github.com/turingschool/frontend-lightning-talks">Lightning Talks</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/group-dynamics-reflection.html">Pair/Group Reflection</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/m1-static-comp.html">Static Comp</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-1/m1-static-comp-2.html">Static Comp 2</a></li> -->
+  </ul>
 
 ## Current project learning goals
 

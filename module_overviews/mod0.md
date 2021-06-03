@@ -26,8 +26,8 @@ Giving students a foundation of skills and tools that will help serve them durin
 
 ## Projects
 
-* Mod 0 Technical Assessment
-* Mod 1 Pre-work (done before, after, and during mod 0 ideally)
+* [Mod 0 Technical Assessment](https://mod0.turing.edu/assessment)
+* [Mod 1 Pre-work](https://mod0.turing.edu/prework/) (done before, after, and during mod 0 ideally)
 
 ## Current project learning goals
 
