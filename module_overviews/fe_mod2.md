@@ -5,7 +5,7 @@ title: Front End Module 2
 
 ## Instructors
 
- Will Mitchell, Bob Gu
+Hannah Hudson (Anchor), Nik Seif
 
 ## Module Content Summary
 

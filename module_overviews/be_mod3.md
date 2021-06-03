@@ -5,7 +5,7 @@ title: Back End Module 3
 
 ## Instructors
 
-Ian Douglas, Dione Wilson
+Tim Tyrrell (Anchor), Meg Stang (Propeller)
 
 ## Module Content Summary
 

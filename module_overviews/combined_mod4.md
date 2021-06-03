@@ -5,7 +5,7 @@ title: Combined Module 4
 
 ## Instructors
 
-Robbie Jaeger, Eric Weissman, Megan McMahon, Tyler Long
+Dione Wilson (Mod 4 Lead), David Whitaker, Travis Rollins, Bob Gu
 
 ## Module Content Summary
 

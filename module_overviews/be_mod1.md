@@ -5,7 +5,7 @@ title: Back End Module 1
 
 ## Instructors
 
-Michael Dao (Anchor), Kathleen Scriver. Meghan Stang
+Michael Dao (Anchor), Megan McMahon, Ian Douglas
 
 ## Module Content Summary
 

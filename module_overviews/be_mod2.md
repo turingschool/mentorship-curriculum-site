@@ -4,7 +4,7 @@ title: Back End Module 2
 ---
 
 ## Instructors
-Brian Zanti, Alex Robinson, Tim Tyrrell
+Brian Zanti (Anchor), Jamison Ordway
 
 ## Module Content Summary
 
