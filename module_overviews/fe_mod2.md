@@ -17,14 +17,37 @@ FE2 focuses on foundational JavaScript, and the use of Array and Object prototyp
 
 ## Projects
 
-<section>
-  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
-</section>
-
-* Solo I - Flash Cards
-* Pair - FitLit or What’s Cookin
-* Group - Refactor Tractor
-* Solo II - Overlook or Travel Tracker
+<ul class="projects">
+    <li class="project"><a href="https://frontend.turing.edu/projects/flash-cards.html">Flash Cards</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/JSFun.html">JSFun</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-2/code-wars.html">Code Wars Starter List</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/whats-cookin.html">Whats Cookin</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/fitlit.html">FitLit</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-2/refactor-tractor.html">Refactor Tractor - Fitlit</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-2/refactor-tractor-wc.html">Refactor Tractor - What's Cookin'</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-2/game-time.html">Game Time</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/fun-review.html">jsFUN: Review</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/overlook.html">Overlook</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/travel-tracker.html">Travel Tracker</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-2/group-dynamics-reflection.html">Pair/Group Reflection</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/project-demo-pair.html">Pair Project Demo</a></li>
+    <!-- <li class="project"><a href="https://github.com/turingschool-examples/react-static-comp">React-Static-Comp</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/whateverly.html">Whateverly</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/memoize.html">Memoize</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/weathrly.html">Weathrly</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/game-time.html">Game Time</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/sorting-suite.html">Sorting Suite</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/complete-me.html">Complete-Me</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/flash-cards.html">Flash Cards</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/2DoBox-Pivot">2DoBox-Pivot</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/seven-weeks-of-fonts.html">Seven Weeks of Fonts</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/style-guide-challenges.html">Style Guide Challenges</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/tier-one.html">Tier One Projects</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/bird-feeder-1.html">Mini-Project: Bird Feeder 1.0</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/fire-bae.html">Fire-Bae Projects</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/number-guesser-in-react.html">Number Guesser in React</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/shoot-the-breeze.html">Shoot the Breeze</a></li> -->
+  </ul>
 
 ## Current project learning goals
 

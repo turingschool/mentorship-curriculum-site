@@ -23,13 +23,27 @@ They continue to build up their skills in independent learning: asking questions
 
 ## Projects
 
-<section>
-  <a href="https://frontend.turing.io/projects/" class="btn btn-dark">Front End Projects</a>
-</section>
-
-[Rancid Tomatillos](https://frontend.turing.io/projects/module-3/rancid-tomatillos-v2.html)
-[Stretch](https://frontend.turing.io/projects/module-3/stretch.html)
-[Binary Challenge](https://frontend.turing.io/projects/module-3/binary-challenge.html)
+<ul class="projects">
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-3/whats-new.html">What's New?</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-3/swapi-trivia.html">SWAPI-Trivia</a></li> -->
+    <!--<li class="project"><a href="https://frontend.turing.edu/projects/module-3/vrad.html">VRAD</a></li>-->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-3/movie-tracker.html">Movie Tracker</a></li> -->
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-3/turing-yearbook.html">Yearbook (mini project)</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-3/rancid-tomatillos-v3.html">Rancid Tomatillos</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-3/stretch.html">Stretch</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-3/niche-audience.html">Niche Audience</a></li>
+    <li class="project"><a href="https://frontend.turing.edu/projects/module-3/ideas-4-ideaboxes.html">Ideas-4-Ideaboxes</a></li>
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/tune-in-later.html">Tune In Later</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/module-3/group-dynamics-reflection.html">Pair/Group Reflection</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/swapi-box.html">SWapi-Box</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/self-directed-project.html">Self-Directed Projects</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/trapper-keeper.html">Trapper Keeper</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/weather&#45;forecast.html">Weather Forecast</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/remember.html">remEMBER</a></li> -->
+    <!-- <li class="project"><a href="https://github.com/turingschool&#45;examples/headcount2.0">HeadCount2.0</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/red&#45;green&#45;blue.html">Red Green Blue</a></li> -->
+    <!-- <li class="project"><a href="https://frontend.turing.edu/projects/walker-texas-rangerbox.html">Walker Texas Rangerbox</a></li> -->
+  </ul>
 
 ## Current project learning goals
 
