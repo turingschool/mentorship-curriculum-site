@@ -17,12 +17,8 @@ Learning new technologies (React, Redux, Express, & GraphQL), understanding and 
 
 ## Projects
 
-<section>
-  <a href="https://mod4.turing.io/projects/" class="btn btn-dark">Module 4 Projects</a>
-</section>
-
-* Crate (Brownfield codebase)
-* Cross Poll
+* [Group Project: Capstone](https://mod4.turing.edu/projects/capstone.html)
+* [Solo Project: Take Home](https://mod4.turing.edu/projects/take-home.html)
 
 ## Current project learning goals
 
