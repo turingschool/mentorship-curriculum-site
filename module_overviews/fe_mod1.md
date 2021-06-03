@@ -5,7 +5,7 @@ title: Front End Module 1
 
 ## Instructors
 
-Hannah Hudson, Scott Ertmer, Kayla Wood
+Kayla Wood, Heather Faerber
 
 ## Module Content Summary
 

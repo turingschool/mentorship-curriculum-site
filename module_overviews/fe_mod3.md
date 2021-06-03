@@ -5,7 +5,7 @@ title: Front End Module 3
 
 ## Instructors
 
-Khalid Williams, Leta Keane
+Leta Keane, Scott Ertmer (Anchor)
 
 ## Module Content Summary
 
