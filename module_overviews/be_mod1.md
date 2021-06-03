@@ -17,14 +17,10 @@ Pairing, OOP, TDD, SRP, DRY code, basic data type creation/manipulation
 
 ## Projects
 
-<section>
-  <a href="https://backend.turing.io/module1/projects/" class="btn btn-dark">Back End M1 Projects</a>
-</section>
-
-Week 1: War or Peace OR Flashcards
-Week 2-3: Battleship
-Week 4-5: Futbol
-Week 6: Enigma OR Night Writer
+* [War or Peace](https://backend.turing.edu/module1/projects/war_or_peace)
+* [Mastermind](https://backend.turing.edu/module1/projects/mastermind)
+* [Black Thursday](https://backend.turing.edu/module1/projects/black_thursday)
+* [View All](https://backend.turing.io/module1/projects/)
 
 ## Current project learning goals
 
