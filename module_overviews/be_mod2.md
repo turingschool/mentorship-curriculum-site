@@ -16,14 +16,11 @@ Creating database-backed applications in Rails, utilizing MVC pattern, testing u
 
 ## Projects
 
-<section>
-  <a href="https://backend.turing.io/module2/projects/index" class="btn btn-dark">Back End M2 Projects</a>
-</section>
 
-* [Adopt Don’t Shop](https://github.com/turingschool-examples/adopt_dont_shop_2005)
-* [Adopt Don’t Shop Paired](https://github.com/turingschool-examples/adopt_dont_shop_paired)
-* [Monster Shop Group Project](https://github.com/turingschool-examples/monster_shop_2005)
-* [Monster Shop Solo Project](https://github.com/turingschool-examples/monster_shop_final)
+* [Relational Rails](https://backend.turing.edu/module2/projects/relational_rails) - paired project, weeks 1-2
+* [Adopt Don't Shop](https://github.com/turingschool-examples/adopt_dont_shop) - solo project, week 3
+* [Little Esty Shop](https://github.com/turingschool-examples/little-esty-shop) - group project, weeks 4-5
+* [Bulk Discounts](https://backend.turing.edu/module2/projects/bulk_discounts) - solo project, week 6
 
 ## Current project learning goals
 

@@ -21,26 +21,10 @@ In Module 3, we will look beyond the basics of building Rails web applications w
 
 ## Projects
 
-<section>
-  <a href="https://backend.turing.io/module3/projects/index" class="btn btn-dark">Back End M3 Projects</a>
-</section>
-
-[Brownfield of Dreams](https://backend.turing.io/module3/projects/brownfield_of_dreams/index)
-Week 1 - Paired
-
-[Viewing Party](https://backend.turing.io/module3/projects/viewing_party/index)
-Coming soon as an alternate
-Week 1 - Paired
-
-[Rails Engine](https://backend.turing.io/module3/projects/rails_engine/)
-Week 3 - Solo
-
-[Terrificus](https://backend.turing.io/module3/projects/terrificus/)
-Week 4 - Group
-Student’s choose what to build meeting outlined technical requirements
-
-[Sweater Weather](https://backend.turing.io/module3/projects/sweater_weather/)
-Week 6 - Solo
+* [Viewing Party](https://backend.turing.edu/module2/projects/viewing_party/index) - paired project, week 1 and 2
+* [Rails Engine](https://backend.turing.edu/module2/projects/rails_engine) - solo project, week 3
+* [Consultancy Project](https://backend.turing.edu/module2/projects/consultancy) - group project, week 4 and 5
+* [Sweater Weather](https://backend.turing.edu/module2/projects/sweater_weather) - solo project, week 6
 
 ## Current project learning goals
 
