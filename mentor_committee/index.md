@@ -17,14 +17,14 @@ Committee mentors will be a key part of this process, working with us to:
 
 ## 2012 - ∞ Inning Mentor Committee Members
 
-We are thrilled to be working with this group as our founding Mentor Committee members:
+We are thrilled to be working with this group as our  Mentor Committee members:
 
-* Eddie Zaneski, on Slack: _@eddiezane_
 * Hugh Hartigan, on Slack: _@Hugh Hartigan_
 * Jacob Bogart, on Slack: _@jacobogart_
 * Mike Duke, on Slack: _@Duke_
+* Josh Sevy, on Slack: _@joshuasevy_
 
-Initial committee members plan to serve through December 2020 to allow for more consistent feedback and communication while we kick off this mentorship revitalization program. Future committee member groups will serve for approximately 3 months (2 modules).
+Current committee members plan to serve through December 2021 to allow for more consistent feedback and communication while we kick off this mentorship revitalization program.
 
 ## Reasons to Join as a Committee Member
 
