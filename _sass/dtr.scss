@@ -1,5 +1,6 @@
 .resource a:link,
-.resource a:visited {
+.resource a:visited,
+.resource {
   color: darken($dark-gray, 10%);
   text-decoration: none;
   font-weight: 500;

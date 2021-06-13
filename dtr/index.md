@@ -38,7 +38,7 @@ The relationship a student builds with their mentor is incredibly valuable, and 
 
 ## When to Check In
 
-Instructors post the schedule for the entire module in advance, which can be found on each program’s curriculum site as well as on this site's <a href="/calendars">Calendars</a> and <a href="/module_overviews">Module Overviews</a> sections. Mentors should aim to be conscious of key deadlines that will happen over the course of the module. You are welcome to touch base as often as you like, but we suggest the below key conversations as key opportunities the will benefit your mentte:
+Instructors post the schedule for the entire module in advance, which can be found on each program’s curriculum site as well as on this site's <a class="resource" href="/calendars">Calendars</a> and <a class="resource" href="/module_overviews">Module Overviews</a> sections. Mentors should aim to be conscious of key deadlines that will happen over the course of the module. You are welcome to touch base as often as you like, but we suggest the below key conversations as key opportunities the will benefit your mentte:
 
 ### Most Weeks
 
