@@ -21,10 +21,12 @@ In Module 3, we will look beyond the basics of building Rails web applications w
 
 ## Projects
 
-* [Viewing Party](https://backend.turing.edu/module2/projects/viewing_party/index) - paired project, week 1 and 2
-* [Rails Engine](https://backend.turing.edu/module2/projects/rails_engine) - solo project, week 3
-* [Consultancy Project](https://backend.turing.edu/module2/projects/consultancy) - group project, week 4 and 5
-* [Sweater Weather](https://backend.turing.edu/module2/projects/sweater_weather) - solo project, week 6
+<ul class="projects">
+  <li class="project"><a href="https://backend.turing.edu/module2/projects/viewing_party/index">Viewing Party</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module2/projects/rails_engine">Rails Engine</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module2/projects/consultancy">Consultancy Project</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module2/projects/sweater_weather">Sweater Weather</a></li>
+</ul>
 
 ## Current project learning goals
 
