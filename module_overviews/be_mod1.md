@@ -17,10 +17,13 @@ Pairing, OOP, TDD, SRP, DRY code, basic data type creation/manipulation
 
 ## Projects
 
-* [War or Peace](https://backend.turing.edu/module1/projects/war_or_peace)
-* [Mastermind](https://backend.turing.edu/module1/projects/mastermind)
-* [Black Thursday](https://backend.turing.edu/module1/projects/black_thursday)
-* [View All](https://backend.turing.io/module1/projects/)
+<ul class="projects">
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/war_or_peace">War or Peace</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/mastermind">Mastermind</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/black_thursday">Black Thursday</a></li>
+  <li class="project"><a href="https://backend.turing.io/module1/projects/">View All</a></li>
+</ul>
+
 
 ## Current project learning goals
 
