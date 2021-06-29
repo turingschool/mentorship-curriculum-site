@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partial
 title: Combined Module 4
 ---
 
