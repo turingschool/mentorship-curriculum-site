@@ -1,3 +1,15 @@
+.module-overview-button-container {
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(8, 1fr);
+  @media (max-width: 1100px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  @media (max-width: $phone-width) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .project a:link,
 .project a:visited,
 .project {
