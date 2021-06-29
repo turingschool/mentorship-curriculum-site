@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partial
 title: Back End Module 2
 ---
 

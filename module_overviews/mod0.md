@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partial
 title: Module 0
 ---
 ## Instructors

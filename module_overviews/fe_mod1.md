@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partial
 title: Front End Module 1
 ---
 
