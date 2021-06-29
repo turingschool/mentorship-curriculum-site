@@ -1,29 +1,35 @@
 $(
   (function () {
-    var modHash = getModHashSelection();
+    const modHash = getModHashSelection();
+    const modButton =
+      modHash &&
+      document.querySelector(`.module-selector[data-module=${modHash}]`);
 
-    if (modHash) {
+    if (modButton) {
       activateButton(modHash);
       updateSelectedContent(modHash);
     }
 
-    $('.module-selector').on('click', function (event) {
+    $('.module-selector').on('click', (event) => {
       event.preventDefault();
 
-      var currentlyActiveButton = getActivatedButton();
+      const currentlyActiveButton = getActivatedButton();
 
       if (currentlyActiveButton) {
         deactivateButton(currentlyActiveButton);
       }
 
-      var newSelection = $(event.target).data('module');
-      activateButton(newSelection);
-      updateUrl(newSelection);
-      updateSelectedContent(newSelection);
+      const newSelection = $(event.target).data('module');
+
+      if (newSelection) {
+        activateButton(newSelection);
+        updateUrl(newSelection);
+        updateSelectedContent(newSelection);
+      }
     });
 
     function getModHashSelection() {
-      var modHash = window.location.hash;
+      const modHash = window.location.hash;
 
       if (!!modHash) {
         return modHash.split('#')[1];
@@ -33,10 +39,10 @@ $(
     }
 
     function updateSelectedContent(moduleSelection) {
-      var contentContainer = document.getElementById('content-container');
-      var activeButton = getActivatedButton(moduleSelection);
+      const contentContainer = document.getElementById('content-container');
+      const activeButton = getActivatedButton(moduleSelection);
 
-      $.get($(activeButton).data('file'), function (data) {
+      $.get($(activeButton).data('file'), (data) => {
         $(contentContainer).html(data);
       });
     }
@@ -54,7 +60,7 @@ $(
     }
 
     function getActivatedButton() {
-      var activeButton = document.querySelector(
+      const activeButton = document.querySelector(
         'button[class*="module-selector active"]'
       );
 
