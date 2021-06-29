@@ -1,0 +1,10 @@
+[
+  { "title": "Mod 0", "file": "mod0.html", "id": "mod0" },
+  { "title": "BE 1", "file": "be_mod1.html", "id": "beMod1" },
+  { "title": "BE 2", "file": "be_mod2.html", "id": "beMod2" },
+  { "title": "BE 3", "file": "be_mod3.html", "id": "beMod3" },
+  { "title": "FE 1", "file": "fe_mod1.html", "id": "feMod1" },
+  { "title": "FE 2", "file": "fe_mod2.html", "id": "feMod2" },
+  { "title": "FE 3", "file": "fe_mod3.html", "id": "feMod3" },
+  { "title": "Mod 4", "file": "combined_mod4.html", "id": "mod4" }
+]
