@@ -15,7 +15,7 @@ Committee mentors will be a key part of this process, working with us to:
 * Be critical to the work of revisioning a robust, growth-oriented mentorship program that benefits both our students and our mentors personal and professional grown
 * Help define what mentorship at Turing is today and what it can be in the future
 
-## 2012 - ∞ Inning Mentor Committee Members
+## 2012 - Current Inning Mentor Committee Members
 
 We are thrilled to be working with this group as our  Mentor Committee members:
 
