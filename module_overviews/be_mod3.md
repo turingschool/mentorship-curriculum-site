@@ -5,7 +5,7 @@ title: Back End Module 3
 
 ## Instructors
 
-Tim Tyrrell (Anchor), Meg Stang (Propeller)
+Meg Stang, Bob Gu
 
 ## Module Content Summary
 
@@ -13,11 +13,11 @@ In Module 3, we will look beyond the basics of building Rails web applications w
 
 ## Technical Focus of the Module
 
-* Produce APIs
-* Consuming APIs
-* Refactoring/Writing Quality Code with OOP
-* Testing consumption and production of APIs
-* [Lower priority focuses](https://backend.turing.io/module3/misc/learning_goals)
+- Produce APIs
+- Consuming APIs
+- Refactoring/Writing Quality Code with OOP
+- Testing consumption and production of APIs
+- [Lower priority focuses](https://backend.turing.io/module3/misc/learning_goals)
 
 ## Projects
 
@@ -33,14 +33,13 @@ In Module 3, we will look beyond the basics of building Rails web applications w
 Linked in above projects
 [Module Learning Goals](https://backend.turing.io/module3/misc/learning_goals)
 
-
 ## Top three skills mentors should focus on with mentees
 
-* APIs consuming & producing
-* Code Quality/OOP
-* Testing
+- APIs consuming & producing
+- Code Quality/OOP
+- Testing
 
-## Any things that mentors should __not__ focus on or share with thier mentees?
+## Any things that mentors should **not** focus on or share with thier mentees?
 
 Prefer mentors coach students toward answers rather than giving them a direct answer or giving them their previous project to reference
 
@@ -50,14 +49,14 @@ Students sometimes get stuck in thinking there is only one way to solve a proble
 
 For example, students often get caught up in following a facade design pattern, without really understanding the purpose of it.
 
-## How does this module’s curriculum fit into the program as a whole __(help mentors to understand the “why” behind what is being taught)__
+## How does this module’s curriculum fit into the program as a whole **(help mentors to understand the “why” behind what is being taught)**
 
-* Builds on Rails Foundation of M2
-* Implements OOP principles introduced in Mod 1
-* Focus on processes
-* Students begin to do more independent research and develop a process of how to find answers
-* Project Planning, Group Stand-ups, Project Retros
-* Empowering students to be more self-sufficient as they transition into M4
+- Builds on Rails Foundation of M2
+- Implements OOP principles introduced in Mod 1
+- Focus on processes
+- Students begin to do more independent research and develop a process of how to find answers
+- Project Planning, Group Stand-ups, Project Retros
+- Empowering students to be more self-sufficient as they transition into M4
 
 ## Key dates (projects, mid mods, etc)
 
