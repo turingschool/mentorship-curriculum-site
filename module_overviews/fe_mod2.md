@@ -5,7 +5,7 @@ title: Front End Module 2
 
 ## Instructors
 
-Hannah Hudson (Anchor), Nik Seif
+Robbie Jaeger, Nik Seif, Cassandra Torske
 
 ## Module Content Summary
 
@@ -51,18 +51,18 @@ FE2 focuses on foundational JavaScript, and the use of Array and Object prototyp
 
 ## Current project learning goals
 
-* Solo I - Use OOP, continue to work on TDD
-* Pair - Parse data using prototype methods, display parsed data on the dom
-* Group - Refactor existing code, fetch data from an external API
-* Solo II - Prove an understanding of skills from the previous projects
+- Solo I - Use OOP, continue to work on TDD
+- Pair - Parse data using prototype methods, display parsed data on the dom
+- Group - Refactor existing code, fetch data from an external API
+- Solo II - Prove an understanding of skills from the previous projects
 
 ## Top three skills mentors should focus on with mentees
 
-* Pseudocoding
-* Sad Path Testing
-* Use of different prototype methods for solving the same problem
+- Pseudocoding
+- Sad Path Testing
+- Use of different prototype methods for solving the same problem
 
-## Any things that mentors should __not__ focus on or share with their mentees?
+## Any things that mentors should **not** focus on or share with their mentees?
 
 N/A
 
@@ -70,18 +70,18 @@ N/A
 
 Students consistently underestimate the importance of pseudocoding, and instead try to just dive into the code without a plan for how to solve the problem.
 
-## How does this module’s curriculum fit into the program as a whole __(help mentors to understand the “why” behind what is being taught)__
+## How does this module’s curriculum fit into the program as a whole **(help mentors to understand the “why” behind what is being taught)**
 
 Understanding at a deeper level how JavaScript actually runs enables developers to write cleaner, more concise, code, and makes debugging a more straightforward process. Learning the various prototype methods is absolutely critical to success in programming more generally.
 
 ## Key dates (projects, mid mods, etc)
 
-* Solo I - Due Thur Wk1
-* Pair - Due Tue Wk3
-* Mid Mod - Mon Wk4
-* Group - Due Tue Wk5
-* Final - Mon Wk6
-* Solo II - Due Tue Wk6
+- Solo I - Due Thur Wk1
+- Pair - Due Tue Wk3
+- Mid Mod - Mon Wk4
+- Group - Due Tue Wk5
+- Final - Mon Wk6
+- Solo II - Due Tue Wk6
 
 ## Link to the calendar for the module
 
