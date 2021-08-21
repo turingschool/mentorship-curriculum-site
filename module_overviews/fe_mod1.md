@@ -5,7 +5,7 @@ title: Front End Module 1
 
 ## Instructors
 
-Kayla Wood, Heather Faerber
+Hannah Hudson, Jeremiah Black, Heather Faerber
 
 ## Module Content Summary
 
@@ -49,19 +49,18 @@ JS foundations, cultivating good problem solving skills (pseudo-coding, using do
 
 ## Current project learning goals
 
-* First solo: understanding simple and complex data types, declaring variables, unit testing (working with, NOT writing their own tests)
-* Paired: write DRY js, understand class instantiation, manipulate DOM after page load, start understanding to write effective HTML/CSS
-* Group: understanding data model vs DOM, advanced manipulation of DOM after page load, array iteration, refactoring, using local storage
-* Final solo: writing DRY js, understanding data model vs DOM, iterating through DOM elements, using problem solving skills for tricky logic.
-
+- First solo: understanding simple and complex data types, declaring variables, unit testing (working with, NOT writing their own tests)
+- Paired: write DRY js, understand class instantiation, manipulate DOM after page load, start understanding to write effective HTML/CSS
+- Group: understanding data model vs DOM, advanced manipulation of DOM after page load, array iteration, refactoring, using local storage
+- Final solo: writing DRY js, understanding data model vs DOM, iterating through DOM elements, using problem solving skills for tricky logic.
 
 ## Top three skills mentors should focus on with mentees
 
-* Cultivating good problem solving skills (pseudo-coding, logging/debugging, researching docs, using terms of art to talk through code)
-* JS fundamentals (args/params, working with arrays and objects/classes, refactoring)
-* Data model vs DOM
+- Cultivating good problem solving skills (pseudo-coding, logging/debugging, researching docs, using terms of art to talk through code)
+- JS fundamentals (args/params, working with arrays and objects/classes, refactoring)
+- Data model vs DOM
 
-## Any things that mentors should __not__ focus on or share with their mentees?
+## Any things that mentors should **not** focus on or share with their mentees?
 
 No looping array prototypes (Ex: reduce, map, forEach, etc). We want students to focus on using for statements to attain a thorough understanding of looping.
 
@@ -73,11 +72,11 @@ Generally we stay away from ES6 JavaScript (Exceptions: template literals, terna
 
 ## Common "gotchas" students encounter in this module
 
-* The relationship between arguments and parameters, especially when instantiating a class and passing complex data
-* Using the data model to keep track of an app’s data, instead of storing data on the DOM.
-* HTML/CSS
+- The relationship between arguments and parameters, especially when instantiating a class and passing complex data
+- Using the data model to keep track of an app’s data, instead of storing data on the DOM.
+- HTML/CSS
 
-## How does this module’s curriculum fit into the program as a whole __(help mentors to understand the “why” behind what is being taught)__
+## How does this module’s curriculum fit into the program as a whole **(help mentors to understand the “why” behind what is being taught)**
 
 Building strong foundations for the rest of Turing and for on the job learning.
 
@@ -85,13 +84,13 @@ Problem solving skills they should take with them and build upon through the pro
 
 ## Key dates (projects, mid mods, etc)
 
-* Sunday before week 2: final solo project due
-* Tuesday week 3: paired project due
-* Thursday week 3: mid mods
-* Sunday before week 4: Solo challenge due
-* Wednesday week 5: Group project due
-* Friday week 5: early bird assessments
-* Tuesday week 6: final mod assessments & final project due
+- Sunday before week 2: final solo project due
+- Tuesday week 3: paired project due
+- Thursday week 3: mid mods
+- Sunday before week 4: Solo challenge due
+- Wednesday week 5: Group project due
+- Friday week 5: early bird assessments
+- Tuesday week 6: final mod assessments & final project due
 
 ## Link to the calendar for the module
 
