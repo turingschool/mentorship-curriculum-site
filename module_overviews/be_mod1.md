@@ -5,7 +5,7 @@ title: Back End Module 1
 
 ## Instructors
 
-Michael Dao (Anchor), Megan McMahon, Ian Douglas
+Michael Dao, Dione Wilson
 
 ## Module Content Summary
 
@@ -19,11 +19,11 @@ Pairing, OOP, TDD, SRP, DRY code, basic data type creation/manipulation
 
 <ul class="projects">
   <li class="project"><a href="https://backend.turing.edu/module1/projects/war_or_peace">War or Peace</a></li>
-  <li class="project"><a href="https://backend.turing.edu/module1/projects/mastermind">Mastermind</a></li>
-  <li class="project"><a href="https://backend.turing.edu/module1/projects/black_thursday">Black Thursday</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/battleship">Battleship</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/futbol">Futbol</a></li>
+  <li class="project"><a href="https://backend.turing.edu/module1/projects/enigma">Enigma</a></li>
   <li class="project"><a href="https://backend.turing.io/module1/projects/">View All</a></li>
 </ul>
-
 
 ## Current project learning goals
 
@@ -32,14 +32,13 @@ Week 2-3: Establish a git workflow and learn to pair
 Week 4-5: Learn to work in a larger group, learn to test robustly, make design decisions, deal with inefficiencies in both tests and functionality
 Week 6: Put it all together on your own to build a thing.
 
-
 ## Top three skills mentors should focus on with mentees
 
-* Breaking down complex problems into smaller chunks
-* Testing
-* Mastery of objects/classes and common data types
+- Breaking down complex problems into smaller chunks
+- Testing
+- Mastery of objects/classes and common data types
 
-## Any things that mentors should __not__ focus on or share with their mentees?
+## Any things that mentors should **not** focus on or share with their mentees?
 
 System level scripting (.zsh or .bash) - This generally leads to environment issues for the students.
 
@@ -47,22 +46,22 @@ Don’t help with Specific methods in projects - project design (modules, inheri
 
 ## Common "gotchas" students encounter in this module
 
-* Assuming they are working with one data type when they actually have another.
-* Too many instance variables
-* General testing flaws
-* Unable to break from unproductive struggle
-* Uncomfortable choosing the right enumerable
+- Assuming they are working with one data type when they actually have another.
+- Too many instance variables
+- General testing flaws
+- Unable to break from unproductive struggle
+- Uncomfortable choosing the right enumerable
 
-## How does this module’s curriculum fit into the program as a whole __(help mentors to understand the “why” behind what is being taught)__
+## How does this module’s curriculum fit into the program as a whole **(help mentors to understand the “why” behind what is being taught)**
 
 Students need to understand the foundations of OOP in order to start building more complex applications.
 
 ## Key dates (projects, mid mods, etc)
 
-* Mid Mods: Friday Week 3
-* Final Paired: Friday Week 5, Monday Week 6
-* Projects Due: Week 2 Monday, Weeks 3 & 5 Thursday, Week 6 Tuesday
-* Final IC: Wednesday Week 6
+- Mid Mods: Friday Week 3
+- Final Paired: Friday Week 5, Monday Week 6
+- Projects Due: Week 2 Monday, Weeks 3 & 5 Thursday, Week 6 Tuesday
+- Final IC: Wednesday Week 6
 
 ## Calendar for the module
 
